@@ -15,7 +15,7 @@ assert 0 < pts < 10
 
 # How to install with PIP
 ```
-pip install https://github.com/cyberj0g/OpenCV-Custom/blob/master/opencv_python-3.4.2.17-cp36-cp36m-manylinux1_x86_64.whl
+pip install https://github.com/cyberj0g/OpenCV-Custom/raw/master/opencv_python-3.4.2.17-cp36-cp36m-manylinux1_x86_64.whl
 ```
 
 # How to create a binary wheel with customized OpenCV source
